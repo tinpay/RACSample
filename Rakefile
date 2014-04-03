@@ -5,6 +5,7 @@ DESTINATIONS = ["name=iPhone Retina (3.5-inch),OS=7.0",
 desc 'Clean and Build'
 task :default => [:clean, :test]
 
+
 desc 'Clean'
 task :clean do
   sh "xctool clean -workspace RACSample.xcworkspace -scheme RACSample"
