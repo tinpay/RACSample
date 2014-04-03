@@ -5,4 +5,4 @@ before_install:
  - gem install cocoapods -r
  - pod setup
  
-script: make test
+script: - xctool -workspace RACSample.xcworkspace -scheme RACSample
