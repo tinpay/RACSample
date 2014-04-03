@@ -6,14 +6,7 @@ before_install:
  - pod setup
  
 script:
-    - xctool -workspace RACSample.xcworkspace -scheme RACSample -sdk iphonesimulator build test \
-      TEST_AFTER_BUILD=YES \
-      TEST_HOST= \
-      GCC_INSTRUMENT_PROGRAM_FLOW_ARCS=YES \
-      GCC_GENERATE_TEST_COVERAGE_FILES=YES
-
-send-coverage:
-  coveralls -e RACSampleTests      
+    - xctool -workspace RACSample.xcworkspace -scheme RACSample -sdk iphonesimulator build test  GCC_INSTRUMENT_PROGRAM_FLOW_ARCS=YES GCC_GENERATE_TEST_COVERAGE_FILES=YES
 
 after_success:
-  - make send-coverage
+  - ./script/coveralls.sh -r ./ -e Pods -e Tests
