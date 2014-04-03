@@ -4,7 +4,8 @@ before_install:
  - export LANG=en_US.UTF-8
  - gem install cocoapods -r
  - pod setup
- 
+ - sudo easy_install cpp-coveralls
+   
 script:
     - xctool -workspace RACSample.xcworkspace -scheme RACSample -sdk iphonesimulator build test  GCC_INSTRUMENT_PROGRAM_FLOW_ARCS=YES GCC_GENERATE_TEST_COVERAGE_FILES=YES
 
