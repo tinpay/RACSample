@@ -1,0 +1,222 @@
+TRACSample
+v6
+r1
+cCheck dependencies
+cMkDir /Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/Release-iphonesimulator/RACSample.app
+cPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/RACSample.build/Release-iphonesimulator/RACSample.build/Script-F749C9D51F5E4A7B9F437BA9.sh
+cProcessPCH /var/folders/2m/n6cvg5ss6ybbf6bb694k27_w0000gn/C/com.apple.DeveloperTools/5.0-5A11314m/Xcode/SharedPrecompiledHeaders/RACSample-Prefix-bpwmdmprgnmvvtagjxykpplrknkw/RACSample-Prefix.pch.pch RACSample/RACSample-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/RACSample.build/Release-iphonesimulator/RACSample.build/Objects-normal/i386/TPYAppDelegate.o /Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/RACSample/TPYAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/RACSample.build/Release-iphonesimulator/RACSample.build/Objects-normal/i386/main.o /Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/RACSample/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/RACSample.build/Release-iphonesimulator/RACSample.build/Objects-normal/i386/TPYViewController.o /Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/RACSample/TPYViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/Release-iphonesimulator/RACSample.app/RACSample normal i386
+
+N/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c0000000051B0DA5A0000000000000154
+t1370544730
+s340
+
+N/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c0000000051B0E79200000000000003B5
+t1370548114
+s949
+
+N/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000051B0E7D600000000000001A0
+t1370548182
+s416
+
+N/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000051B0E7EE000000000020A390
+t1370548206
+s2139024
+
+N/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000051B0E7FD0000000000426BB0
+t1370548221
+s4352944
+
+N/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000051B0E8230000000000DAEFF0
+t1370548259
+s14348272
+
+N/Users/shohei/Dropbox/@Smartphone/iOS App/rep/RACSample/RACSample/RACSample/RACSample-Prefix.pch
+c00000000533ADD3A0000000000000158
+t1396366650
+s344
+
+N/Users/shohei/Dropbox/@Smartphone/iOS App/rep/RACSample/RACSample/RACSample/TPYAppDelegate.m
+c00000000533ADD3A00000000000007E4
+t1396366650
+s2020
+
+N/Users/shohei/Dropbox/@Smartphone/iOS App/rep/RACSample/RACSample/RACSample/TPYViewController.m
+c00000000533ADD3B00000000000001FD
+t1396366651
+s509
+
+N/Users/shohei/Dropbox/@Smartphone/iOS App/rep/RACSample/RACSample/RACSample/main.m
+c00000000533ADD3A000000000000015B
+t1396366650
+s347
+
+N/Users/shohei/Dropbox/@Smartphone/iOS App/rep/RACSample/RACSample/build/RACSample.build/Release-iphonesimulator/RACSample.build/Objects-normal/i386/RACSample.LinkFileList
+c00000000533C1F6400000000000001E8
+t1396449124
+s488
+
+N/Users/shohei/Dropbox/@Smartphone/iOS App/rep/RACSample/RACSample/build/RACSample.build/Release-iphonesimulator/RACSample.build/Objects-normal/i386/TPYAppDelegate.o
+t1396449126
+s64416
+
+N/Users/shohei/Dropbox/@Smartphone/iOS App/rep/RACSample/RACSample/build/RACSample.build/Release-iphonesimulator/RACSample.build/Objects-normal/i386/TPYViewController.o
+t1396449126
+s41672
+
+N/Users/shohei/Dropbox/@Smartphone/iOS App/rep/RACSample/RACSample/build/RACSample.build/Release-iphonesimulator/RACSample.build/Objects-normal/i386/main.o
+t1396449126
+s3676
+
+N/Users/shohei/Dropbox/@Smartphone/iOS App/rep/RACSample/RACSample/build/RACSample.build/Release-iphonesimulator/RACSample.build/Script-F749C9D51F5E4A7B9F437BA9.sh
+c00000000533C1F640000000000000103
+t1396449124
+s259
+
+N/Users/shohei/Dropbox/@Smartphone/iOS App/rep/RACSample/RACSample/build/Release-iphonesimulator/RACSample.app
+t2
+s0
+
+N/Users/shohei/Dropbox/@Smartphone/iOS App/rep/RACSample/RACSample/build/Release-iphonesimulator/RACSample.app/RACSample
+t2
+s0
+
+N/Users/shohei/Dropbox/@Smartphone/iOS App/rep/RACSample/RACSample/build/Release-iphonesimulator/libPods.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/var/folders/2m/n6cvg5ss6ybbf6bb694k27_w0000gn/C/com.apple.DeveloperTools/5.0-5A11314m/Xcode/SharedPrecompiledHeaders/RACSample-Prefix-bpwmdmprgnmvvtagjxykpplrknkw/RACSample-Prefix.pch.pch
+t1396449126
+s110208
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesde92e8e356ecb841^70223ee456ecb841^---0#1#1#--18"Check dependencies36"2D1B08A1-2584-401D-9C17-83753EFD5868-
+
+CCompileAssetCatalog /Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/Release-iphonesimulator/RACSample.app /Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/RACSample/Images.xcassets
+r0
+
+CCompileC build/RACSample.build/Release-iphonesimulator/RACSample.build/Objects-normal/i386/TPYAppDelegate.o /Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/RACSample/TPYAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418141926.031125
+e418141926.147318
+r1
+xCompileC
+xbuild/RACSample.build/Release-iphonesimulator/RACSample.build/Objects-normal/i386/TPYAppDelegate.o
+x/Users/shohei/Dropbox/@Smartphone/iOS App/rep/RACSample/RACSample/RACSample/TPYAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/shohei/Dropbox/@Smartphone/iOS App/rep/RACSample/RACSample/RACSample/TPYAppDelegate.m
+d/Users/shohei/Dropbox/@Smartphone/iOS App/rep/RACSample/RACSample/RACSample/TPYAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/shohei/Dropbox/@Smartphone/iOS App/rep/RACSample/RACSample/RACSample/TPYAppDelegate.m218"[1mCompileC[0m build/RACSample.build/Release-iphonesimulator/RACSample.build/Objects-normal/i386/TPYAppDelegate.o [1mRACSample/TPYAppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc30d08e656ecb841^82c525e656ecb841^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/shohei/Dropbox/@Smartphone/iOS%20App/rep/RACSample/RACSample/RACSample/TPYAppDelegate.m0000000000000000^4664"[1mCompileC[0m build/RACSample.build/Release-iphonesimulator/RACSample.build/Objects-normal/i386/TPYAppDelegate.o [1mRACSample/TPYAppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/shohei/Dropbox/@Smartphone/iOS App/rep/RACSample/RACSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode5-DP.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=180 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/2m/n6cvg5ss6ybbf6bb694k27_w0000gn/C/com.apple.DeveloperTools/5.0-5A11314m/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/RACSample.build/Release-iphonesimulator/RACSample.build/RACSample-generated-files.hmap -I/Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/RACSample.build/Release-iphonesimulator/RACSample.build/RACSample-own-target-headers.hmap -I/Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/RACSample.build/Release-iphonesimulator/RACSample.build/RACSample-all-target-headers.hmap -iquote /Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/RACSample.build/Release-iphonesimulator/RACSample.build/RACSample-project-headers.hmap -I/Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/Release-iphonesimulator/include -I/Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/Pods/Headers -I/Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/Pods/Headers/ReactiveCocoa -I/Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/Pods/Headers/ReactiveCocoa/ReactiveCocoa -I/Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/RACSample.build/Release-iphonesimulator/RACSample.build/DerivedSources/i386 -I/Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/RACSample.build/Release-iphonesimulator/RACSample.build/DerivedSources -F/Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/Release-iphonesimulator -isystem/Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/Pods/Headers -isystem/Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/Pods/Headers/ReactiveCocoa -isystem/Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/Pods/Headers/ReactiveCocoa/ReactiveCocoa -include /var/folders/2m/n6cvg5ss6ybbf6bb694k27_w0000gn/C/com.apple.DeveloperTools/5.0-5A11314m/Xcode/SharedPrecompiledHeaders/RACSample-Prefix-bpwmdmprgnmvvtagjxykpplrknkw/RACSample-Prefix.pch -MMD -MT dependencies -MF /Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/RACSample.build/Release-iphonesimulator/RACSample.build/Objects-normal/i386/TPYAppDelegate.d --serialize-diagnostics /Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/RACSample.build/Release-iphonesimulator/RACSample.build/Objects-normal/i386/TPYAppDelegate.dia -c /Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/RACSample/TPYAppDelegate.m -o /Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/RACSample.build/Release-iphonesimulator/RACSample.build/Objects-normal/i386/TPYAppDelegate.o36"2C4F2DA4-FAD2-449C-ACD0-5392D07B6B62-
+bB88648B3-B941-43C1-9F1B-777C065F9126
+
+CCompileC build/RACSample.build/Release-iphonesimulator/RACSample.build/Objects-normal/i386/TPYViewController.o /Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/RACSample/TPYViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418141926.031574
+e418141926.146847
+r1
+xCompileC
+xbuild/RACSample.build/Release-iphonesimulator/RACSample.build/Objects-normal/i386/TPYViewController.o
+x/Users/shohei/Dropbox/@Smartphone/iOS App/rep/RACSample/RACSample/RACSample/TPYViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/shohei/Dropbox/@Smartphone/iOS App/rep/RACSample/RACSample/RACSample/TPYViewController.m
+d/Users/shohei/Dropbox/@Smartphone/iOS App/rep/RACSample/RACSample/RACSample/TPYViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/shohei/Dropbox/@Smartphone/iOS App/rep/RACSample/RACSample/RACSample/TPYViewController.m224"[1mCompileC[0m build/RACSample.build/Release-iphonesimulator/RACSample.build/Objects-normal/i386/TPYViewController.o [1mRACSample/TPYViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler702808e656ecb841^5da325e656ecb841^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/shohei/Dropbox/@Smartphone/iOS%20App/rep/RACSample/RACSample/RACSample/TPYViewController.m0000000000000000^4682"[1mCompileC[0m build/RACSample.build/Release-iphonesimulator/RACSample.build/Objects-normal/i386/TPYViewController.o [1mRACSample/TPYViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/shohei/Dropbox/@Smartphone/iOS App/rep/RACSample/RACSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode5-DP.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=180 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/2m/n6cvg5ss6ybbf6bb694k27_w0000gn/C/com.apple.DeveloperTools/5.0-5A11314m/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/RACSample.build/Release-iphonesimulator/RACSample.build/RACSample-generated-files.hmap -I/Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/RACSample.build/Release-iphonesimulator/RACSample.build/RACSample-own-target-headers.hmap -I/Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/RACSample.build/Release-iphonesimulator/RACSample.build/RACSample-all-target-headers.hmap -iquote /Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/RACSample.build/Release-iphonesimulator/RACSample.build/RACSample-project-headers.hmap -I/Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/Release-iphonesimulator/include -I/Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/Pods/Headers -I/Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/Pods/Headers/ReactiveCocoa -I/Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/Pods/Headers/ReactiveCocoa/ReactiveCocoa -I/Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/RACSample.build/Release-iphonesimulator/RACSample.build/DerivedSources/i386 -I/Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/RACSample.build/Release-iphonesimulator/RACSample.build/DerivedSources -F/Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/Release-iphonesimulator -isystem/Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/Pods/Headers -isystem/Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/Pods/Headers/ReactiveCocoa -isystem/Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/Pods/Headers/ReactiveCocoa/ReactiveCocoa -include /var/folders/2m/n6cvg5ss6ybbf6bb694k27_w0000gn/C/com.apple.DeveloperTools/5.0-5A11314m/Xcode/SharedPrecompiledHeaders/RACSample-Prefix-bpwmdmprgnmvvtagjxykpplrknkw/RACSample-Prefix.pch -MMD -MT dependencies -MF /Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/RACSample.build/Release-iphonesimulator/RACSample.build/Objects-normal/i386/TPYViewController.d --serialize-diagnostics /Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/RACSample.build/Release-iphonesimulator/RACSample.build/Objects-normal/i386/TPYViewController.dia -c /Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/RACSample/TPYViewController.m -o /Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/RACSample.build/Release-iphonesimulator/RACSample.build/Objects-normal/i386/TPYViewController.o36"3762D2CF-AB9E-44A6-8E30-3EC67BEF352B-
+bB88648B3-B941-43C1-9F1B-777C065F9126
+
+CCompileC build/RACSample.build/Release-iphonesimulator/RACSample.build/Objects-normal/i386/main.o /Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/RACSample/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418141926.031551
+e418141926.146433
+r1
+xCompileC
+xbuild/RACSample.build/Release-iphonesimulator/RACSample.build/Objects-normal/i386/main.o
+x/Users/shohei/Dropbox/@Smartphone/iOS App/rep/RACSample/RACSample/RACSample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/shohei/Dropbox/@Smartphone/iOS App/rep/RACSample/RACSample/RACSample/main.m
+d/Users/shohei/Dropbox/@Smartphone/iOS App/rep/RACSample/RACSample/RACSample/TPYAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/shohei/Dropbox/@Smartphone/iOS App/rep/RACSample/RACSample/RACSample/main.m198"[1mCompileC[0m build/RACSample.build/Release-iphonesimulator/RACSample.build/Objects-normal/i386/main.o [1mRACSample/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler233208e656ecb841^a47025e656ecb841^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/shohei/Dropbox/@Smartphone/iOS%20App/rep/RACSample/RACSample/RACSample/main.m0000000000000000^4604"[1mCompileC[0m build/RACSample.build/Release-iphonesimulator/RACSample.build/Objects-normal/i386/main.o [1mRACSample/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/shohei/Dropbox/@Smartphone/iOS App/rep/RACSample/RACSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode5-DP.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=180 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/2m/n6cvg5ss6ybbf6bb694k27_w0000gn/C/com.apple.DeveloperTools/5.0-5A11314m/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/RACSample.build/Release-iphonesimulator/RACSample.build/RACSample-generated-files.hmap -I/Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/RACSample.build/Release-iphonesimulator/RACSample.build/RACSample-own-target-headers.hmap -I/Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/RACSample.build/Release-iphonesimulator/RACSample.build/RACSample-all-target-headers.hmap -iquote /Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/RACSample.build/Release-iphonesimulator/RACSample.build/RACSample-project-headers.hmap -I/Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/Release-iphonesimulator/include -I/Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/Pods/Headers -I/Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/Pods/Headers/ReactiveCocoa -I/Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/Pods/Headers/ReactiveCocoa/ReactiveCocoa -I/Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/RACSample.build/Release-iphonesimulator/RACSample.build/DerivedSources/i386 -I/Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/RACSample.build/Release-iphonesimulator/RACSample.build/DerivedSources -F/Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/Release-iphonesimulator -isystem/Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/Pods/Headers -isystem/Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/Pods/Headers/ReactiveCocoa -isystem/Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/Pods/Headers/ReactiveCocoa/ReactiveCocoa -include /var/folders/2m/n6cvg5ss6ybbf6bb694k27_w0000gn/C/com.apple.DeveloperTools/5.0-5A11314m/Xcode/SharedPrecompiledHeaders/RACSample-Prefix-bpwmdmprgnmvvtagjxykpplrknkw/RACSample-Prefix.pch -MMD -MT dependencies -MF /Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/RACSample.build/Release-iphonesimulator/RACSample.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/RACSample.build/Release-iphonesimulator/RACSample.build/Objects-normal/i386/main.dia -c /Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/RACSample/main.m -o /Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/RACSample.build/Release-iphonesimulator/RACSample.build/Objects-normal/i386/main.o36"D2249891-0D88-4136-A307-E10FB814CFFB-
+bB88648B3-B941-43C1-9F1B-777C065F9126
+
+CCompileStoryboard /Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/RACSample/Base.lproj/Main.storyboard
+r0
+
+CCopyStringsFile /Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/Release-iphonesimulator/RACSample.app/en.lproj/InfoPlist.strings RACSample/en.lproj/InfoPlist.strings
+r0
+
+CGenerateDSYMFile /Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/Release-iphonesimulator/RACSample.app.dSYM /Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/Release-iphonesimulator/RACSample.app/RACSample
+r0
+
+CLd /Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/Release-iphonesimulator/RACSample.app/RACSample normal i386
+s418141926.148462
+e418141926.162019
+r0
+xLd
+x/Users/shohei/Dropbox/@Smartphone/iOS App/rep/RACSample/RACSample/build/Release-iphonesimulator/RACSample.app/RACSample
+xnormal
+xi386
+d/Users/shohei/Dropbox/@Smartphone/iOS App/rep/RACSample/RACSample/build/RACSample.build/Release-iphonesimulator/RACSample.build/Objects-normal/i386/RACSample.LinkFileList
+old: library not found for -lPods
+oclang: error: linker command failed with exit code 1 (use -v to see invocation)
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Link /Users/shohei/Dropbox/@Smartphone/iOS App/rep/RACSample/RACSample/build/Release-iphonesimulator/RACSample.app/RACSample76"[1mLd[0m build/Release-iphonesimulator/RACSample.app/RACSample normal i386941226e656ecb841^319629e656ecb841^-113"ld: library not found for -lPodsclang: error: linker command failed with exit code 1 (use -v to see invocation)2(21%IDEActivityLogMessage2@28"Library not found for -lPods-418141926#0#33#-0#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@65"Linker command failed with exit code 1 (use -v to see invocation)-418141926#33#80#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--0#0#1#--1612"[1mLd[0m build/Release-iphonesimulator/RACSample.app/RACSample normal i386    cd "/Users/shohei/Dropbox/@Smartphone/iOS App/rep/RACSample/RACSample"    setenv IPHONEOS_DEPLOYMENT_TARGET 7.1    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode5-DP.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/Release-iphonesimulator -F/Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/Release-iphonesimulator -filelist /Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/RACSample.build/Release-iphonesimulator/RACSample.build/Objects-normal/i386/RACSample.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -ObjC -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -lPods -Xlinker -dependency_info -Xlinker /Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/RACSample.build/Release-iphonesimulator/RACSample.build/Objects-normal/i386/RACSample_dependency_info.dat -o /Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/Release-iphonesimulator/RACSample.app/RACSample36"EBB40B6C-70D8-4F84-ADB4-E701537FEBDA-
+bB88648B3-B941-43C1-9F1B-777C065F9126
+
+CMkDir /Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/Release-iphonesimulator/RACSample.app
+s418141924.244189
+e418141924.248707
+r1
+xMkDir
+x/Users/shohei/Dropbox/@Smartphone/iOS App/rep/RACSample/RACSample/build/Release-iphonesimulator/RACSample.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"[1mMkDir[0m [1mbuild/Release-iphonesimulator/RACSample.app[0m65"[1mMkDir[0m [1mbuild/Release-iphonesimulator/RACSample.app[0mae9b3ee456ecb841^39b93fe456ecb841^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/shohei/Dropbox/@Smartphone/iOS%20App/rep/RACSample/RACSample/build/Release-iphonesimulator/RACSample.app00187f9501f5df42^522"[1mMkDir[0m [1mbuild/Release-iphonesimulator/RACSample.app[0m    cd "/Users/shohei/Dropbox/@Smartphone/iOS App/rep/RACSample/RACSample"    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /bin/mkdir -p /Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/Release-iphonesimulator/RACSample.app36"B63757B4-14A7-4F84-B1FC-2FFF348FE583-
+bB88648B3-B941-43C1-9F1B-777C065F9126
+
+CPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/RACSample.build/Release-iphonesimulator/RACSample.build/Script-F749C9D51F5E4A7B9F437BA9.sh
+s418141924.249707
+e418141924.265687
+r1
+xPhaseScriptExecution
+xCheck Pods Manifest.lock
+x/Users/shohei/Dropbox/@Smartphone/iOS App/rep/RACSample/RACSample/build/RACSample.build/Release-iphonesimulator/RACSample.build/Script-F749C9D51F5E4A7B9F437BA9.sh
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Run custom shell script 'Check Pods Manifest.lock'152"[1mPhaseScriptExecution[0m Check\ Pods\ Manifest.lock build/RACSample.build/Release-iphonesimulator/RACSample.build/Script-F749C9D51F5E4A7B9F437BA9.shd53f40e456ecb841^a70444e456ecb841^---0#0#1#--675"[1mPhaseScriptExecution[0m Check\ Pods\ Manifest.lock build/RACSample.build/Release-iphonesimulator/RACSample.build/Script-F749C9D51F5E4A7B9F437BA9.sh    cd "/Users/shohei/Dropbox/@Smartphone/iOS App/rep/RACSample/RACSample"    #!/bin/shdiff "${PODS_ROOT}/../Podfile.lock" "${PODS_ROOT}/Manifest.lock" > /dev/nullif [[ $? != 0 ]] ; then    cat << EOMerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.EOM    exit 1fi    /bin/sh -c \"/Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/RACSample.build/Release-iphonesimulator/RACSample.build/Script-F749C9D51F5E4A7B9F437BA9.sh\"36"70B5D121-FA95-477F-8543-40DA3FF936BF-
+bB88648B3-B941-43C1-9F1B-777C065F9126
+
+CPhaseScriptExecution Copy\ Pods\ Resources /Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/RACSample.build/Release-iphonesimulator/RACSample.build/Script-E5A1D7B27E47413E8C3866DD.sh
+r0
+
+CProcessInfoPlistFile /Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/Release-iphonesimulator/RACSample.app/Info.plist /Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/RACSample/RACSample-Info.plist
+r0
+
+CProcessPCH /var/folders/2m/n6cvg5ss6ybbf6bb694k27_w0000gn/C/com.apple.DeveloperTools/5.0-5A11314m/Xcode/SharedPrecompiledHeaders/RACSample-Prefix-bpwmdmprgnmvvtagjxykpplrknkw/RACSample-Prefix.pch.pch RACSample/RACSample-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418141924.266487
+e418141926.028149
+r1
+xProcessPCH
+x/var/folders/2m/n6cvg5ss6ybbf6bb694k27_w0000gn/C/com.apple.DeveloperTools/5.0-5A11314m/Xcode/SharedPrecompiledHeaders/RACSample-Prefix-bpwmdmprgnmvvtagjxykpplrknkw/RACSample-Prefix.pch.pch
+xRACSample/RACSample-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/shohei/Dropbox/@Smartphone/iOS App/rep/RACSample/RACSample/RACSample/RACSample-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile RACSample/RACSample-Prefix.pch306"[1mProcessPCH[0m /var/folders/2m/n6cvg5ss6ybbf6bb694k27_w0000gn/C/com.apple.DeveloperTools/5.0-5A11314m/Xcode/SharedPrecompiledHeaders/RACSample-Prefix-bpwmdmprgnmvvtagjxykpplrknkw/RACSample-Prefix.pch.pch RACSample/RACSample-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2b4f44e456ecb841^b72407e656ecb841^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/shohei/Dropbox/@Smartphone/iOS%20App/rep/RACSample/RACSample/RACSample/RACSample-Prefix.pch0000000000000000^4634"[1mProcessPCH[0m /var/folders/2m/n6cvg5ss6ybbf6bb694k27_w0000gn/C/com.apple.DeveloperTools/5.0-5A11314m/Xcode/SharedPrecompiledHeaders/RACSample-Prefix-bpwmdmprgnmvvtagjxykpplrknkw/RACSample-Prefix.pch.pch RACSample/RACSample-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/shohei/Dropbox/@Smartphone/iOS App/rep/RACSample/RACSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode5-DP.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode5-DP.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=180 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/2m/n6cvg5ss6ybbf6bb694k27_w0000gn/C/com.apple.DeveloperTools/5.0-5A11314m/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode5-DP.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/RACSample.build/Release-iphonesimulator/RACSample.build/RACSample-generated-files.hmap -I/Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/RACSample.build/Release-iphonesimulator/RACSample.build/RACSample-own-target-headers.hmap -I/Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/RACSample.build/Release-iphonesimulator/RACSample.build/RACSample-all-target-headers.hmap -iquote /Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/RACSample.build/Release-iphonesimulator/RACSample.build/RACSample-project-headers.hmap -I/Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/Release-iphonesimulator/include -I/Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/Pods/Headers -I/Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/Pods/Headers/ReactiveCocoa -I/Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/Pods/Headers/ReactiveCocoa/ReactiveCocoa -I/Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/RACSample.build/Release-iphonesimulator/RACSample.build/DerivedSources/i386 -I/Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/RACSample.build/Release-iphonesimulator/RACSample.build/DerivedSources -F/Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/Release-iphonesimulator -isystem/Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/Pods/Headers -isystem/Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/Pods/Headers/ReactiveCocoa -isystem/Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/Pods/Headers/ReactiveCocoa/ReactiveCocoa --serialize-diagnostics /var/folders/2m/n6cvg5ss6ybbf6bb694k27_w0000gn/C/com.apple.DeveloperTools/5.0-5A11314m/Xcode/SharedPrecompiledHeaders/RACSample-Prefix-bpwmdmprgnmvvtagjxykpplrknkw/RACSample-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/2m/n6cvg5ss6ybbf6bb694k27_w0000gn/C/com.apple.DeveloperTools/5.0-5A11314m/Xcode/SharedPrecompiledHeaders/RACSample-Prefix-bpwmdmprgnmvvtagjxykpplrknkw/RACSample-Prefix.pch.d -c /Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/RACSample/RACSample-Prefix.pch -o /var/folders/2m/n6cvg5ss6ybbf6bb694k27_w0000gn/C/com.apple.DeveloperTools/5.0-5A11314m/Xcode/SharedPrecompiledHeaders/RACSample-Prefix-bpwmdmprgnmvvtagjxykpplrknkw/RACSample-Prefix.pch.pch36"A4E3DDD9-3272-42D0-A3B2-66E9C75C736F-
+bB88648B3-B941-43C1-9F1B-777C065F9126
+
+CTouch /Users/shohei/Dropbox/@Smartphone/iOS\ App/rep/RACSample/RACSample/build/Release-iphonesimulator/RACSample.app
+r0
+
