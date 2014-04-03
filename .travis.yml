@@ -12,4 +12,8 @@ script:
       GCC_INSTRUMENT_PROGRAM_FLOW_ARCS=YES \
       GCC_GENERATE_TEST_COVERAGE_FILES=YES
 
-      
+send-coverage:
+  coveralls -e RACSampleTests      
+
+after_success:
+  - make send-coverage
