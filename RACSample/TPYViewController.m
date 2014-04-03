@@ -41,7 +41,7 @@
     if ([self isDigit:txt1] && [self isDigit:txt2]) {
         return [NSString stringWithFormat:@"%d",txt1.intValue + txt2.intValue];
     }
-    return @"NaN";
+    return @"Not a Number";
 }
 
 //数値かどうか
